@@ -1,5 +1,5 @@
 # Adaptive Fidelity Network (AEN / FAB) Embodied Reinforcement Learning Under Non-Stationarity
-## Detailed evaluation in- evaluation.md
+## Detailed evaluation in- [evaluation.md](evaluation.md)
 ## 1. Experimental Philosophy
 
 The goal of these experiments is **not** to demonstrate state-of-the-art performance on standard benchmarks.  
